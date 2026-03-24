@@ -1,0 +1,122 @@
+21/05/2024	22:20	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->RV-HR_Main.vi	
+21/05/2024	22:21	Non-Critical		62	TCP Read in send_command.vi->RV-HR_Main.vi	
+21/05/2024	22:24	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->RV-HR_Main.vi	
+21/05/2024	22:26	Non-Critical		62	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	09:26	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->RV-HR_Main.vi	
+25/06/2024	09:27	Non-Critical		62	TCP Read in send_command.vi->RV-HR_Main.vi	
+25/06/2024	13:37	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	13:43	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	16:00	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	16:22	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	16:28	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	16:30	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	16:35	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	16:39	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	16:48	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	16:48	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	16:53	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	17:00	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	17:01	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	17:06	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	17:09	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	17:16	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	17:19	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+25/06/2024	17:20	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+26/06/2024	10:01	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+26/06/2024	10:45	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+26/06/2024	10:47	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+26/06/2024	12:22	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+26/06/2024	12:39	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+16/07/2024	17:35	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+16/07/2024	17:42	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+16/07/2024	17:46	Non-Critical		402860	SQLite.lvlib:Connection.lvclass:Prepare (pointers).vi
+MAIN db name-->""
+
+SQLITE_ERROR(1): no such table: Image
+
+Complete Call Chain:
+SQLite.lvlib:Connection.lvclass:Prepare (pointers).vi
+SQLite.lvlib:Connection.lvclass:Execute SQL (Single Integer).vi:1080001
+Check Image Analysed.vi
+Current File Paths.vi
+Analyse Images.vi
+RV-HR_Main.vi
+
+SQL: "SELECT analysed FROM Image WHERE name="""	
+02/10/2024	14:25	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+02/10/2024	14:41	Non-Critical		1	TCP Write in send_command.vi->RV-HR_Main.vi	
+02/10/2024	14:53	Non-Critical		1	TCP Write in send_command.vi->TV-HR_Main.vi	
+03/10/2024	09:16	Non-Critical		1	TCP Write in send_command.vi->TV-HR_Main.vi	
+03/10/2024	09:32	Non-Critical		1	TCP Write in send_command.vi->TV-HR_Main.vi	
+03/10/2024	09:42	Non-Critical		1	TCP Write in send_command.vi->TV-HR_Main.vi	
+03/10/2024	09:45	Non-Critical		1	TCP Write in send_command.vi->TV-HR_Main.vi	
+03/10/2024	09:52	Non-Critical		1	TCP Write in send_command.vi->TV-HR_Main.vi	
+03/10/2024	09:58	Non-Critical		1	TCP Write in send_command.vi->TV-HR_Main.vi	
+03/10/2024	10:01	Non-Critical		1	TCP Write in send_command.vi->TV-HR_Main.vi	
+03/10/2024	10:02	Non-Critical		1	TCP Write in send_command.vi->TV-HR_Main.vi	
+03/10/2024	10:05	Non-Critical		1	TCP Write in send_command.vi->TV-HR_Main.vi	
+03/10/2024	10:25	Non-Critical		1	TCP Write in send_command.vi->TV-HR_Main.vi	
+03/10/2024	10:28	Non-Critical		1	TCP Write in send_command.vi->TV-HR_Main.vi	
+03/10/2024	10:30	Non-Critical		1	TCP Write in send_command.vi->TV-HR_Main.vi	
+03/10/2024	10:30	Non-Critical		1	TCP Write in send_command.vi->TV-HR_Main.vi	
+03/10/2024	10:58	Non-Critical		1	TCP Write in send_command.vi->TV-HR_Main.vi	
+13/02/2025	10:52	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+13/02/2025	10:56	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+13/02/2025	12:14	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+13/02/2025	12:16	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+13/02/2025	12:30	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+13/02/2025	12:32	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+13/02/2025	12:48	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+13/02/2025	14:00	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+13/02/2025	14:03	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+14/02/2025	11:24	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+14/02/2025	11:32	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+12/03/2025	12:15	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+12/03/2025	12:36	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+12/03/2025	12:41	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+12/03/2025	13:36	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+12/03/2025	15:04	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+14/03/2025	14:36	Non-Critical		402860	SQLite.lvlib:Connection.lvclass:Prepare (pointers).vi
+MAIN db name-->""
+
+SQLITE_ERROR(1): no such table: Image
+
+Complete Call Chain:
+SQLite.lvlib:Connection.lvclass:Prepare (pointers).vi
+SQLite.lvlib:Connection.lvclass:Execute SQL (Single Integer).vi:1080001
+Check Image Analysed.vi
+Current File Paths.vi
+Analyse Images.vi
+TV-HR_Main.vi
+
+SQL: "SELECT analysed FROM Image WHERE name="""	
+17/03/2025	15:08	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+17/03/2025	15:11	Non-Critical		66	TCP Read in send_command.vi->Analyse Images.vi->TV-HR_Main.vi	
+20/03/2025	09:22	Non-Critical		402860	SQLite.lvlib:Connection.lvclass:Prepare (pointers).vi
+MAIN db name-->""
+
+SQLITE_ERROR(1): no such table: Image
+
+Complete Call Chain:
+SQLite.lvlib:Connection.lvclass:Prepare (pointers).vi
+SQLite.lvlib:Connection.lvclass:Execute SQL (Single Integer).vi:1080001
+Check Image Analysed.vi
+Current File Paths.vi
+Analyse Images.vi
+TV-HR_Main.vi
+
+SQL: "SELECT analysed FROM Image WHERE name="""	
+20/03/2026	16:17	Non-Critical		402860	SQLite.lvlib:Connection.lvclass:Prepare (pointers).vi
+MAIN db name-->""
+
+SQLITE_ERROR(1): no such table: Image
+
+Complete Call Chain:
+SQLite.lvlib:Connection.lvclass:Prepare (pointers).vi
+SQLite.lvlib:Connection.lvclass:Execute SQL (Single Integer).vi:1080001
+Check Image Analysed.vi
+Current File Paths.vi
+Analyse Images.vi
+TV-HR_Main.vi
+
+SQL: "SELECT analysed FROM Image WHERE name="""	
